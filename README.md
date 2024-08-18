@@ -1,6 +1,3 @@
-## Preview
-<img alt="preview1" src="public/preview1.png" /> 
-<img alt="preview2" src="public/preview2.png" /> 
 
 ## About the project
 This is a secure employee management system done using Next.js, Typescript and MongoDB. For the style I used TailwindCSS. 
@@ -23,5 +20,3 @@ NEXT_PUBLIC_API_URL=
 
 Thirdly, you run **npm run dev**
 
-## Hope you enjoy
-Have fun, leave a star if you like please and any contribution or improvement is welcome.
